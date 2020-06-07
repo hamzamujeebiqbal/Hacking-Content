@@ -1,14 +1,12 @@
-# PENTESTING-BIBLE
+# Hacking Content
 
 # hundreds of ethical hacking &amp; penetration testing &amp; red team &amp; cyber security &amp; computer science resources.
 # ALMOST 2000 LINKS.
 # ALMOST 2000 PDF FILES ABOUT DIFFERENT FIELDS OF HACKING .
 # note:most of the pdf files is different than the links which means there is now almost 4000 links & pdf files. 
 
-## Support.
-**Your generous donations will keep me motivated.**
 
-*Paypal:* [![Donate via Paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif)](https://paypal.me/AmmarAmerHacker)
+
 
 
 -1- 3 Ways Extract Password Hashes from NTDS.dit:
