@@ -4,8 +4,9 @@
 # ALMOST 2000 LINKS.
 # ALMOST 2000 PDF FILES ABOUT DIFFERENT FIELDS OF HACKING .
 # note:most of the pdf files is different than the links which means there is now almost 4000 links & pdf files. 
-
-
+[![Build Status](https://img.shields.io/github/forks/hamzamujeebiqbal/Hacking-Content.svg)](https://github.com/hamzamujeebiqbal/Hacking-Content)
+[![Build Status](https://img.shields.io/github/stars/hamzamujeebiqbal/Hacking-Content.svg)](https://github.com/hamzamujeebiqbal/Hacking-Content)
+[![License](https://img.shields.io/github/license/hamzamujeebiqbal/Hacking-Content.svg)](https://github.com/hamzamujeebiqbal/Hacking-Content)
 
 
 
